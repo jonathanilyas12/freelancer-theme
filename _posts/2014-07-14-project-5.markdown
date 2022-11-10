@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I have a big social circle in Salt Lake City. I have my Cousins living here and many friends from different countries, who also came to study in United States. It is fun hanging out with other international students, I get to learn about their culture more and interesting things about their country.
 ---
