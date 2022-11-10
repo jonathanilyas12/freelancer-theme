@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:  I am an International Studend from Pakistan. I am a freshmen at Weber State University studying CS.
+description: I moved here from Islamabad Pakistan. I live in Salt Lake City in downtown with my friends. Salt Lake City is very similar to Islamabad as both them are surrounded by hills and mountains. I like Salt Lake City its a great place to live in.
 ---
