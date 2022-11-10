@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:  I am an International Studend from
+description:  I am an International Studend from Pakistan. I am a freshmen at Weber State University studying CS.
 ---
