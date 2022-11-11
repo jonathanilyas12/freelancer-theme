@@ -1,0 +1,21 @@
+create table CONTACTS (
+	id INT,
+	first_name VARCHAR(50),
+	last_name VARCHAR(50),
+	street_address VARCHAR(50),
+	city VARCHAR(50),
+	state VARCHAR(50),
+	postal_code VARCHAR(50),
+	email VARCHAR(50),
+	phone VARCHAR(50)EW
+);
+insert into CONTACTS values (1, 'Tanny', 'Anstie', '39 Cherokee Drive', 'North Port', 'Florida', '34290', 'tanstie0@google.nl', '941-951-8174'),
+(2, 'Drucy', 'Fakes', '29 Quincy Road', 'Columbus', 'Georgia', '31998', 'dfakes1@bloglovin.com', '706-140-8641'),
+(3, 'Lavena', 'Gornar', '067 Mallory Crossing', 'Atlanta', 'Georgia', '30358', 'lgornar2@trellian.com', '404-629-9582'),
+(4, 'Timi', 'Arnason', '53 Farmco Lane', 'El Paso', 'Texas', '79955', 'tarnason3@techcrunch.com', '915-666-8989'),
+(5, 'Goraud', 'Folomin', '1 Upham Park', 'Minneapolis', 'Minnesota', '55458', 'gfolomin4@wiley.com', '612-646-9028'),
+(6, 'Giulio', 'Erangey', '759 Mayfield Pass', 'Springfield', 'Illinois', '62723', 'gerangey5@bluehost.com', '217-543-5500'),
+(7, 'Joannes', 'Murrish', '4 Gale Place', 'Greenville', 'South Carolina', '29605', 'jmurrish6@buzzfeed.com', '864-830-0642'),
+(8, 'Krishnah', 'Vobes', '6790 Schmedeman Court', 'New Orleans', 'Louisiana', '70129', 'kvobes7@lulu.com', '504-765-6844'),
+(9, 'Abbot', 'O''Leagham', '38 Swallow Point', 'San Bernardino', 'California', '92410', 'aoleagham8@dot.gov', '951-548-9904'),
+(10, 'Selina', 'Gever', '478 Nelson Place', 'Pompano Beach', 'Florida', '33069', 'sgever9@amazon.co.jp', '954-822-6251');
